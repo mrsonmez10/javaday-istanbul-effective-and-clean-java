@@ -1,8 +1,0 @@
-
-Q
-java:S3740"/Provide the parametrized type for this generic.(Ù‰•Ãûÿÿÿÿ8ÅÏóçâ0
-K
-java:S1854"5Remove this useless assignment to local variable "s".(áºû§
-<
-java:S1481"&Remove this unused "s" local variable.(áºû§
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìùé¡øÿÿÿÿ
