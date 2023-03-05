@@ -1,2 +1,2 @@
-# advance-java-short
-Advance java short for live session
+# Javaday Istanbul
+Source codes and presentations
