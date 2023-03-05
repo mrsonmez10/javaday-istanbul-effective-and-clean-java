@@ -1,7 +1,0 @@
-
-p
-java:S1201"UEither override Object.equals(Object), or rename the method to prevent any confusion.(œÕø˜þÿÿÿÿ
-D
-java:S1905")Remove this unnecessary cast to "Bigram".(Õ¡úøüÿÿÿÿ
-S	java:S106#"9Replace this use of System.out or System.err by a logger.(Éý’Õÿÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ýê÷

@@ -1,6 +1,0 @@
-
-A
-java:S1172"+Remove this unused method parameter "cell".(ïª¬”
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôÝ¬÷øÿÿÿÿ
-M
-java:S2589"7Remove this expression which always evaluates to "true"(øø”ö
