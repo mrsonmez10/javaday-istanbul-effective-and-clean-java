@@ -18,6 +18,20 @@ public class TestDrive {
 		}
 	}
 	// for (Iterator<Suit> i = suits.iterator(); i.hasNext();)
+	
+	/*
+		public static void exec(List<String> names, List<Integer> numbers) {
+			Iterator<String> nameIterator = names.iterator();
+			while (nameIterator.hasNext()) {
+				System.out.println(" --> " + nameIterator.next());
+			}
+
+			Iterator<Integer> numberIterator = numbers.iterator();
+			while (numberIterator.hasNext()) {
+				System.out.println(" --> " + numberIterator.next());
+			}
+		}
+	*/
 
 	public static void main(String[] args) {
 		List<String> names = List.of("James Hetfield", "Kirk Ham.", "Robert", "Lars", "Cliff");
