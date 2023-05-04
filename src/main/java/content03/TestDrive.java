@@ -18,10 +18,11 @@ public class TestDrive {
     public enum Orange { NAVEL, TEMPLE, BLOOD }
 
 
-    /*
-      static void method(Apple a) {
+
+    static void method(Apple a) {
+
     }
-     */
+
 
 
 
